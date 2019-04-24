@@ -17,6 +17,6 @@ cv2.imshow("result",i)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-print("jjaj")
+print("jjagggj")
 
 

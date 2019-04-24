@@ -24,8 +24,7 @@ class PythonStudent():
        return None
 #这个过程叫做类的实例化， 月月是一个具体的人
 yueyue = PythonStudent()
+yueyue.doHomework()
 print(yueyue.name)
 print(yueyue.age)
 #注意成员函数的调用没有传入参数
-yueyue.doHomework()
-print(PythonStudent.__dict__)
